@@ -12,4 +12,4 @@ arch:
 ports:
   5007/tcp: 5007
 devices:
-  - /dev/ttyUSB0:/dev/ttyUSB0
+  - /dev/ttyS0:/dev/ttyS0
